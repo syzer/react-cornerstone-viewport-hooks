@@ -1,10 +1,10 @@
 {
-  "name": "react-cornerstone-viewport-hooks",
+  "name": "react-cornerstone-viewport-hooks-mobile",
   "version": "1.7.0",
   "description": "react cornerstone viewport component (with hooks)",
-  "author": "wheresvic",
+  "author": "syzer",
   "license": "MIT",
-  "repository": "git@github.com:usb-radiology/react-cornerstone-viewport-hooks.git",
+  "repository": "git@github.com:syzer/react-cornerstone-viewport-hooks.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
